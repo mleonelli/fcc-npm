@@ -2,8 +2,11 @@
 	"author": "Mauro Leonelli",
   "description": "A test project for FreeCodeCamp Npm lesson",
 	"name": "fcc-learn-npm-package-json",
+  "license": "MIT",
+  "version": "1.0.1",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+    "moment": "~2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
