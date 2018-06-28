@@ -1,7 +1,6 @@
 {
 	"author": "Mauro Leonelli",
   "description": "A test project for FreeCodeCamp Npm lesson",
-  "keywords": [ "freecodecamp", "npm", "fun" ],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
